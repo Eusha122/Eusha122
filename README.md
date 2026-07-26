@@ -17,17 +17,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🔐 Creator of **SafeShare** – secure file sharing platform  
-- 🤖 Building AI-powered systems & automation tools  
-- 🧠 Competitive Programmer (C/C++)  
-- 🖥 VPS deployment with Nginx & PM2  
-- ⚙ Focused on scalable and real-world architecture  
+-  Creator of **SafeShare** – secure file sharing platform  
+-  Building AI-powered systems & automation tools  
+-  Competitive Programmer (C/C++)  
+-  VPS deployment with Nginx & PM2  
+-  Focused on scalable and real-world architecture  
 
 ---
 
-## 🛠 Languages & Tools
+##  Languages & Tools
 
 <div align="center">
 
@@ -40,15 +40,15 @@
 
 ---
 
-## 🌐 Projects
+##  Projects
 
-🔐 SafeShare → https://safeshare.co  
-🌍 Portfolio → https://eusha.vercel.app  
-📝 Blog → https://safeshare.co/blog  
+ SafeShare → https://safeshare.co  
+ Portfolio → https://eusha.vercel.app  
+ Blog → https://safeshare.co/blog  
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 
 <p align="center">
@@ -58,7 +58,7 @@
 
 ---
 
-## 📫 Connect
+##  Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
@@ -69,7 +69,7 @@
 </a>
 </p>
 
-📧 eushaibnaakbor@gmail.com
+ eushaibnaakbor@gmail.com
 
 ---
 
