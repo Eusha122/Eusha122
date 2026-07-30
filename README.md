@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eusha Ibna Akbor</h1>
+<h1 align="center">Hi , I'm Eusha Ibna Akbor</h1>
 <h3 align="center">Full-Stack Developer | Competitive Programmer | System Builder</h3>
 
 <p align="center">
